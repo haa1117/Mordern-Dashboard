@@ -1,5 +1,23 @@
 # 📊 Modern Data Visualization Dashboard
 
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 13 37 PM" src="https://github.com/user-attachments/assets/6104bee7-5473-471e-a6a7-0dfb34845f5c" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 13 20 PM" src="https://github.com/user-attachments/assets/55850976-8950-4896-bbbf-def7e46d334a" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 13 16 PM" src="https://github.com/user-attachments/assets/654e7b69-0384-450c-9c57-4765ec8ebdc3" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 13 13 PM" src="https://github.com/user-attachments/assets/75ef5dc4-292b-46c9-bba7-21b0a9b5b61c" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 13 09 PM" src="https://github.com/user-attachments/assets/ad2b9b4a-840e-4ddb-b291-d81287438973" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 14 34 PM" src="https://github.com/user-attachments/assets/527f54f3-701c-4541-afa6-039e8e32dae1" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 13 56 PM" src="https://github.com/user-attachments/assets/73f26116-2f6d-453f-b27a-095652619b67" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 13 28 PM" src="https://github.com/user-attachments/assets/fa54d143-0e4a-4b5a-8ef0-b49be0651eaf" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 13 24 PM" src="https://github.com/user-attachments/assets/155dad65-0973-45a2-b1c5-db064478b905" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 15 15 PM" src="https://github.com/user-attachments/assets/ce1ec735-d36b-42ea-9ed6-2fcfe6c61d95" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 14 59 PM" src="https://github.com/user-attachments/assets/d7167481-daf8-4768-a205-a1370ab9f93b" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 14 27 PM" src="https://github.com/user-attachments/assets/1aa5913c-1299-45f3-9205-93d4577bc1f4" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 14 12 PM" src="https://github.com/user-attachments/assets/d9e15d3e-d69c-44e5-b6c1-a89abeec22ff" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 14 03 PM" src="https://github.com/user-attachments/assets/b275c359-2ac4-483a-b17b-39094e43955d" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 13 48 PM" src="https://github.com/user-attachments/assets/c1a321ec-d077-4d08-baf6-497737f7598e" />
+<img width="1680" height="722" alt="Screenshot 2025-07-20 at 4 13 31 PM" src="https://github.com/user-attachments/assets/07ede91b-9be0-46e8-a62c-08af0cef7317" />
+
+
 A comprehensive data visualization project featuring **15 different visualization types** with a modern dark theme UI, built using both **Streamlit** and **Gradio** frameworks. This project demonstrates advanced data visualization capabilities with interactive controls, real-time data generation, and responsive design optimized for professional data analysis.
 
 ## 🎯 Project Overview
